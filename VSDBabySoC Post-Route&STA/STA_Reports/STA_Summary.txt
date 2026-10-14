@@ -1,0 +1,48 @@
+VSDBABYSOC POST-ROUTE STATIC TIMING ANALYSIS
+Technology: Sky130HD
+Clock Period: 12 ns
+Analysis: 16 Liberty timing corners
+
+SETUP SLACK RESULTS (ns)
+ff_100C_1v65                                           7.85   slack (MET)
+ff_100C_1v95                                           8.79   slack (MET)
+ff_n40C_1v56                                           6.26   slack (MET)
+ff_n40C_1v65                                           7.12   slack (MET)
+ff_n40C_1v76                                           7.87   slack (MET)
+ff_n40C_1v95                                           8.70   slack (MET)
+ss_100C_1v40                                          -3.88   slack (VIOLATED)
+ss_100C_1v60                                           1.30   slack (MET)
+ss_n40C_1v28                                         -36.89   slack (VIOLATED)
+ss_n40C_1v35                                         -20.88   slack (VIOLATED)
+ss_n40C_1v40                                         -14.31   slack (VIOLATED)
+ss_n40C_1v44                                         -10.46   slack (VIOLATED)
+ss_n40C_1v60                                          -1.68   slack (VIOLATED)
+ss_n40C_1v76                                           2.38   slack (MET)
+tt_025C_1v80                                           6.57   slack (MET)
+tt_100C_1v80                                           6.72   slack (MET)
+
+HOLD SLACK RESULTS (ns)
+ff_100C_1v65                                           0.27   slack (MET)
+ff_100C_1v95                                           0.21   slack (MET)
+ff_n40C_1v56                                           0.31   slack (MET)
+ff_n40C_1v65                                           0.27   slack (MET)
+ff_n40C_1v76                                           0.24   slack (MET)
+ff_n40C_1v95                                           0.20   slack (MET)
+ss_100C_1v40                                           0.94   slack (MET)
+ss_100C_1v60                                           0.67   slack (MET)
+ss_n40C_1v28                                           1.89   slack (MET)
+ss_n40C_1v35                                           1.40   slack (MET)
+ss_n40C_1v40                                           1.17   slack (MET)
+ss_n40C_1v44                                           1.03   slack (MET)
+ss_n40C_1v60                                           0.69   slack (MET)
+ss_n40C_1v76                                           0.52   slack (MET)
+tt_025C_1v80                                           0.33   slack (MET)
+tt_100C_1v80                                           0.33   slack (MET)
+
+ROUTING CHECKS
+Detailed-route DRC short entries: 24
+max slew violation count 0
+max fanout violation count 79
+max cap violation count 0
+setup violation count 0
+hold violation count 0

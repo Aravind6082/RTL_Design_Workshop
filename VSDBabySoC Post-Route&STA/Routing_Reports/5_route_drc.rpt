@@ -1,0 +1,72 @@
+violation type: Short
+	srcs: net:RV_TO_DAC\[0\] inst:dac
+	bbox = (70.0800, 155.6250) - (70.2200, 156.3450) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[0\] inst:dac
+	bbox = (70.0050, 156.1150) - (70.2950, 156.3450) on Layer met1
+violation type: Short
+	srcs: net:VREFH inst:dac
+	bbox = (66.8600, 155.6250) - (67.0000, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:VREFH inst:dac
+	bbox = (66.7850, 155.7750) - (67.0750, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[1\] inst:dac
+	bbox = (85.2600, 155.6250) - (85.4000, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[1\] inst:dac
+	bbox = (85.1850, 155.7750) - (85.4750, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[2\] inst:dac
+	bbox = (102.7400, 155.6250) - (102.8800, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[2\] inst:dac
+	bbox = (102.6650, 155.7750) - (102.9550, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[4\] inst:dac
+	bbox = (134.4800, 155.6250) - (134.6200, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[4\] inst:dac
+	bbox = (134.4050, 155.7750) - (134.6950, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[5\] inst:dac
+	bbox = (151.5000, 155.6250) - (151.6400, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[5\] inst:dac
+	bbox = (151.4250, 155.7750) - (151.7150, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[0\] inst:dac
+	bbox = (70.0800, 155.6250) - (70.2200, 156.3450) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[0\] inst:dac
+	bbox = (70.0050, 156.1150) - (70.2950, 156.3450) on Layer met1
+violation type: Short
+	srcs: net:VREFH inst:dac
+	bbox = (66.8600, 155.6250) - (67.0000, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:VREFH inst:dac
+	bbox = (66.7850, 155.7750) - (67.0750, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[1\] inst:dac
+	bbox = (85.2600, 155.6250) - (85.4000, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[1\] inst:dac
+	bbox = (85.1850, 155.7750) - (85.4750, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[2\] inst:dac
+	bbox = (102.7400, 155.6250) - (102.8800, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[2\] inst:dac
+	bbox = (102.6650, 155.7750) - (102.9550, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[4\] inst:dac
+	bbox = (134.4800, 155.6250) - (134.6200, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[4\] inst:dac
+	bbox = (134.4050, 155.7750) - (134.6950, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[5\] inst:dac
+	bbox = (151.5000, 155.6250) - (151.6400, 156.0050) on Layer met1
+violation type: Short
+	srcs: net:RV_TO_DAC\[5\] inst:dac
+	bbox = (151.4250, 155.7750) - (151.7150, 156.0050) on Layer met1
