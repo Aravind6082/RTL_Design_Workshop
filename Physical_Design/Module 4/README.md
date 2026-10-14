@@ -1,4 +1,4 @@
-# Module 9: Pre-Layout Timing Analysis and Clock Design
+# Module 4: Pre-Layout Timing Analysis and Clock Design
 
 This module documents the custom-cell integration and pre-route physical-design flow for the Sky130 `picorv32a` design. It covers custom inverter layout, LEF/Liberty integration, synthesis timing optimization, floorplanning, placement, ideal-clock static timing analysis (STA), clock-tree synthesis (CTS), and post-CTS timing checks.
 
