@@ -1,4 +1,4 @@
-# RTL Design Workshop - Day 6
+# Day 6
 
 ## Pre-Synthesis and Post-Synthesis Comparison
 
