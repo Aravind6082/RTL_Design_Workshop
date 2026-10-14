@@ -1,4 +1,4 @@
-# Module 8: CMOS Inverter Characterization and Magic Layout
+# Module 3: CMOS Inverter Characterization and Magic Layout
 
 This module explores a CMOS inverter using the SkyWater SKY130 process design kit (PDK). The workflow covers transistor-level simulation with ngspice, physical layout inspection in Magic, extracted-netlist simulation, and design-rule-check (DRC) experiments.
 
