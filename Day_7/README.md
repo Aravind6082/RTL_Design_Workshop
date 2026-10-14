@@ -1,4 +1,4 @@
-# RTL Design Workshop - Day 7
+# Day 7
 
 ## Sequence Detector Design and Verification
 
