@@ -849,11 +849,3 @@ POST-SYNTHESIS SIMULATION
     ↓
 DESIGN VERIFICATION
 ```
-
----
-
-## Author
-
-**Name:** Bardawal Sangathram  
-**Department:** Electronics and Communication Engineering (ECE)  
-**Institution:** Anurag University
