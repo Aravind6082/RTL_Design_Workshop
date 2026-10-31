@@ -302,7 +302,8 @@ Through these exercises, I practiced and reviewed the following concepts:
 ## Repository
 
 **GitHub:** [Aravind6082/RTL_Design_Workshop](https://github.com/Aravind6082/RTL_Design_Workshop)
+## Project Demonstration Video
 
-**Workshop demonstration:** [Download final_vedio.mp4](https://github.com/Aravind6082/RTL_Design_Workshop/raw/refs/heads/main/final_vedio.mp4)
+[Watch Final Video on Google Drive](https://drive.google.com/file/d/1jmAAQ5QX7SbNJgybP0YwjA5xS_p52I7d/view)
 
 This repository records my practical learning in RTL design, synthesis, simulation, physical design, and static timing analysis using open-source EDA tools.
